@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MS_detect_text</string>
+    <string name="edittext_hint">What are you thinking of?</string>
+    <string name="ok_button">识别文本</string>
+</resources>
